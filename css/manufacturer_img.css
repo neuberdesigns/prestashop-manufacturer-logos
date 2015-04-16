@@ -1,0 +1,13 @@
+#manufacturers_list_img {
+	list-style: none;
+	margin-left: 10px;
+}
+
+#manufacturers_list_img li {
+	margin: 2px 0 3px 0;
+	text-align: center;
+}
+
+#manufacturers_list_img li img {
+	border: 1px solid #000;
+}
