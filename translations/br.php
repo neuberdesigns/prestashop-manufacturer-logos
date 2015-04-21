@@ -1,0 +1,31 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_c21e24f6e1c72097f8cc018b7a4cde08'] = 'Exibe uma lista de fabricantes como um carrossel';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_876f23178c29dc2552c0b48bf23cd9bd'] = 'Tem certeza que quer desinstalar?';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_47fc9faa9dcc877793ae2feb7410cf60'] = 'Nenhum nome especificado.';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_2377be3c2ad9b435ba277a73f0f1ca76'] = 'Fabricantes';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_8cd0d0c99b062b3d22e8c7188ba33ab2'] = 'Exibir Todos';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_b2fe3a26a0646cef2a43bdea3bcd9ee3'] = 'Preencha o Títutlo';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_d781e4ccf6814363ffc602a3dd58569f'] = 'Preencha o título para o link \"Exibir Todos\"';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_e3c568568986a28d545940d9d5006666'] = 'Escolha tamanho das imagens';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_3c5f10815c7ba660ae4d5c6c16ed12e6'] = 'Escolha um tema';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_2830eb77beeb34540f531d92e8c60490'] = 'Escolha a posição';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_c9cc8cce247e49bae79f15173ce97354'] = 'Salvar';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_630f6dc397fe74e52d5189e2c80f282b'] = 'Voltar a lista';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_0a52da7a03a6de3beefe54f8c03ad80d'] = 'Original';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_3a69b34ce86dacb205936a8094f6c743'] = 'Grande';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_87f8a6ab85c9ced3702b4ea641ad4bb5'] = 'Médio';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_2660064e68655415da2628c2ae2f7592'] = 'Pequeno';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_e4abb55720e3790fe55982fec858d213'] = 'Coluna Esquerda';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_f16072c370ef52db2e329a87b5e7177a'] = 'Coluna Direita';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_8cf04a9734132302f96da8e113e80ce5'] = 'Home';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_a4ffdcf0dc1f31b9acaf295d75b51d00'] = 'Topo';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_ded40f2a77c30efc6062db0cbd857746'] = 'Rodapé';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_f4f70727dc34561dfde1a3c529b6205c'] = 'Configurações';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_549da9af0070ccc092190ec04840ca50'] = 'Título do Bloco';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_14c5c05bd45be0abcb38350302ca15a2'] = 'Título para o link \"Exibir Todos\"';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_7d25feb59b8a44341084a00840d860d1'] = 'Tamanho da imagem';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_557e0e060cd79070009e68f9e83aa1fe'] = 'Tema do carrossel';
+$_MODULE['<{manufacturerlogo}prestashop>manufacturerlogo_52f5e0bc3859bc5f5e25130b6c7e8881'] = 'Posição';

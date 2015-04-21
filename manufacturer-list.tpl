@@ -7,4 +7,5 @@
 			</a>
 		</li>
 	{/foreach}
+	</ul>
 	
